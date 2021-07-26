@@ -5,23 +5,23 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 
 ### 1. [MKR Zero WAN 1310](https://store.arduino.cc/usa/mkr-wan-1310)
 
-1. [Eagle Files](https://content.arduino.cc/assets/hw_MKRWAN1310.zip)
+- [Eagle Files](https://content.arduino.cc/assets/hw_MKRWAN1310.zip)
 
-2. [PDF Schematic](https://content.arduino.cc/assets/MKRWAN1310V3.0_sch.pdf)
+- [PDF Schematic](https://content.arduino.cc/assets/MKRWAN1310V3.0_sch.pdf)
 
-3. [Fritzing Object](https://content.arduino.cc/assets/Arduino%20MKR%20WAN%201310.fzpz)
+- [Fritzing Object](https://content.arduino.cc/assets/Arduino%20MKR%20WAN%201310.fzpz)
 
 ### 2. [Adafruit Boost Converter](https://www.adafruit.com/product/4654?gclid=EAIaIQobChMI0a7O6eH38QIVCWxvBB0nXAA6EAQYASABEgIBAvD_BwE)
 
-1. [Boost Converter Chip (TPS 61023) Data Sheets](https://www.ti.com/product/TPS61023)
+- [Boost Converter Chip (TPS 61023) Data Sheets](https://www.ti.com/product/TPS61023)
 
-### [SIM 808 GPRS/GPS/GSM Shield](https://www.robotshop.com/en/sim808-gps-gprsgsm-arduino-shield-mkf.html?gclid=EAIaIQobChMIl-Hpytn58QIVdGxvBB3DMgZVEAQYDSABEgJUg_D_BwE)
+### 3. [SIM 808 GPRS/GPS/GSM Shield](https://www.robotshop.com/en/sim808-gps-gprsgsm-arduino-shield-mkf.html?gclid=EAIaIQobChMIl-Hpytn58QIVdGxvBB3DMgZVEAQYDSABEgJUg_D_BwE)
 
-[Datasheet](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-datasheet.pdf)
+- [Datasheet](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-datasheet.pdf)
 
-[Schematic](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-schematic.pdf)
+- [Schematic](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-schematic.pdf)
 
-[Documentation](https://www.robotshop.com/media/files/zip/documentation_oas808sim.zip)
+- [Documentation](https://www.robotshop.com/media/files/zip/documentation_oas808sim.zip)
 
 ### [Adafruit Universal BQ24047 Charger](https://www.adafruit.com/product/4755)
 
