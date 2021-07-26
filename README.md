@@ -49,7 +49,9 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 
 - [ADS1115 Sample Code](https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/arduino-code)
 
-### 7. [Adafruit 6V 2W Solar Panel](https://www.adafruit.com/product/200?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-AgJn4I6zjhduCJCEgV8_JeDv5UhAZp9E30DD3eKabWF0KZtzy32nBoCcKAQAvD_BwE) OR ### [Adafruit 6V 3.5W Solar Panel](https://www.adafruit.com/product/500)
+### 7. [Adafruit 6V 3.5W Solar Panel](https://www.adafruit.com/product/500)
+
+- [Solar Panel Technical Drawing](https://github.com/VoltaicEngineering/Solar-Panel-Drawings/blob/master/Voltaic%20Systems%203.5W%206V%20113x210mm%20DRAWING%20CURRENT%202017%207%2020.pdf)
 
 ### 8. [2000 mAh 3.7V Lithium Ion Battery](https://www.adafruit.com/product/2011?gclid=Cj0KCQjwub-HBhCyARIsAPctr7z8nLmCm4o8cagw8cGOR2JvBQQupAMMokKOfB4LIsXs9-Lr6N-EV6MaAgagEALw_wcB)
 
