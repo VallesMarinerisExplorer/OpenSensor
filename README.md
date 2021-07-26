@@ -51,11 +51,13 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 
 ### 7. [Adafruit 6V 2W Solar Panel](https://www.adafruit.com/product/200?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-AgJn4I6zjhduCJCEgV8_JeDv5UhAZp9E30DD3eKabWF0KZtzy32nBoCcKAQAvD_BwE) OR ### [Adafruit 6V 3.5W Solar Panel](https://www.adafruit.com/product/500)
 
-### 8. Housing
+### 8. [2000 mAh 3.7V Lithium Ion Battery](https://www.adafruit.com/product/2011?gclid=Cj0KCQjwub-HBhCyARIsAPctr7z8nLmCm4o8cagw8cGOR2JvBQQupAMMokKOfB4LIsXs9-Lr6N-EV6MaAgagEALw_wcB)
+
+### 9. Housing
 - Buoy
 - Your own design!
 
-### 9. Your choice of I2C sensors
+### 10. Your choice of I2C sensors
 - [I2C Overview](https://learn.adafruit.com/i2c-addresses)
 
 - [Non-Exhaustive List of I2C Sensors and Addresses](https://learn.adafruit.com/i2c-addresses/the-list)
