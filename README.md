@@ -3,23 +3,55 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 
 # Hardware
 
-[MKR Zero WAN 1310](https://store.arduino.cc/usa/mkr-wan-1310)
+# [MKR Zero WAN 1310](https://store.arduino.cc/usa/mkr-wan-1310)
 
-[10k NTC Thermistor](https://www.digikey.com/en/products/detail/murata-electronics/NXFT15XH103FA1B025/5797781?utm_adgroup=Sensors%2C%20Transducers&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Murata%20Electronics_0490_Co-op&utm_term=&utm_content=Sensors%2C%20Transducers&gclid=CjwKCAjwlrqHBhByEiwAnLmYUIN7ZD1-mDXTNdIc9DDgoQCy29740f9_RUW7YZCqFlNNYm7NI25nlBoCfIYQAvD_BwE)
+[Eagle Files](https://content.arduino.cc/assets/hw_MKRWAN1310.zip)
 
-[Adafruit Boost Converter](https://www.adafruit.com/product/4654?gclid=EAIaIQobChMI0a7O6eH38QIVCWxvBB0nXAA6EAQYASABEgIBAvD_BwE)
+[PDF Schematic](https://content.arduino.cc/assets/MKRWAN1310V3.0_sch.pdf)
 
-[SIM 808 GPRS/GPS/GSM Shield](https://www.robotshop.com/en/sim808-gps-gprsgsm-arduino-shield-mkf.html?gclid=EAIaIQobChMIl-Hpytn58QIVdGxvBB3DMgZVEAQYDSABEgJUg_D_BwE)
+[Fritzing Object](https://content.arduino.cc/assets/Arduino%20MKR%20WAN%201310.fzpz)
 
-[Adafruit Universal BQ24047 Charger](https://www.adafruit.com/product/4755)
+# [Adafruit Boost Converter](https://www.adafruit.com/product/4654?gclid=EAIaIQobChMI0a7O6eH38QIVCWxvBB0nXAA6EAQYASABEgIBAvD_BwE)
 
-[Adafruit Data Logging Shield](https://www.adafruit.com/product/1141?gclid=EAIaIQobChMI9OqQ1tr58QIVzXxvBB3GTgbGEAQYASABEgITQvD_BwE)
+[Boost Converter Chip (TPS 61023) Data Sheets](https://www.ti.com/product/TPS61023)
 
-[Adafruit ADS1115 Analog to Digital Converter](https://www.adafruit.com/product/1085?gclid=Cj0KCQjw0emHBhC1ARIsAL1QGNfJ3SJ85uZqejbk4At3gi_rBteSZwTxbq5_mKbJvcHG9wJhS_kqJ54aAu4vEALw_wcB)
+# [SIM 808 GPRS/GPS/GSM Shield](https://www.robotshop.com/en/sim808-gps-gprsgsm-arduino-shield-mkf.html?gclid=EAIaIQobChMIl-Hpytn58QIVdGxvBB3DMgZVEAQYDSABEgJUg_D_BwE)
 
-[Adafruit 6V 2W Solar Panel](https://www.adafruit.com/product/200?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-AgJn4I6zjhduCJCEgV8_JeDv5UhAZp9E30DD3eKabWF0KZtzy32nBoCcKAQAvD_BwE)
+[Datasheet](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-datasheet.pdf)
+
+[Schematic](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-schematic.pdf)
+
+[Documentation](https://www.robotshop.com/media/files/zip/documentation_oas808sim.zip)
+
+# [Adafruit Universal BQ24047 Charger](https://www.adafruit.com/product/4755)
+
+[BQ24074 Data Sheet](https://www.ti.com/product/BQ24074)
+
+[BQ24074 Fritzing Obbject](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20BQ24074%20Solar-DC-USB%20Lipo%20Charger.fzpz)
+
+[Adafruit BQ24074 Design Notes](https://learn.adafruit.com/adafruit-bq24074-universal-usb-dc-solar-charger-breakout/design-notes)
+
+# [Adafruit Data Logging Shield](https://www.adafruit.com/product/1141?gclid=EAIaIQobChMI9OqQ1tr58QIVzXxvBB3GTgbGEAQYASABEgITQvD_BwE)
+
+[Adafruit Data Logging Shield Board and Schematic](https://github.com/adafruit/Data-Logger-shield)
+
+[Adafruit Data Logging Shield Fritzing Object](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20Datalogger%20Shield%20v1.fzpz)
+
+# [Adafruit ADS1115 Analog to Digital Converter](https://www.adafruit.com/product/1085?gclid=Cj0KCQjw0emHBhC1ARIsAL1QGNfJ3SJ85uZqejbk4At3gi_rBteSZwTxbq5_mKbJvcHG9wJhS_kqJ54aAu4vEALw_wcB)
+
+[ADS1115 Hardware Drivers](https://github.com/adafruit/Adafruit_ADS1X15)
+
+[ADS1115 Board and Schematics](https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs)
+
+[ADS1115 Fritzing Object](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20ADS1115%2016Bit%20I2C%20ADC.fzpz)
+
+[ADS1115 Data Sheet](https://cdn-shop.adafruit.com/datasheets/ads1115.pdf)
+
+[ADS1115 Sample Code](https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/arduino-code)
+
+# [Adafruit 6V 2W Solar Panel](https://www.adafruit.com/product/200?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-AgJn4I6zjhduCJCEgV8_JeDv5UhAZp9E30DD3eKabWF0KZtzy32nBoCcKAQAvD_BwE)
 OR
-[Adafruit 6V 3.5W Solar Panel](https://www.adafruit.com/product/500)
+# [Adafruit 6V 3.5W Solar Panel](https://www.adafruit.com/product/500)
 
 Buoy Housing
 
