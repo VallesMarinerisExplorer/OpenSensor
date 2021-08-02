@@ -11,6 +11,8 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 
 - [Fritzing Object](https://content.arduino.cc/assets/Arduino%20MKR%20WAN%201310.fzpz)
 
+- [Simple Arduino Tutorial](https://docs.arduino.cc/tutorials/mkr-wan-1310/lora-send-and-receive)
+
 ### 2. [Adafruit Boost Converter](https://www.adafruit.com/product/4654?gclid=EAIaIQobChMI0a7O6eH38QIVCWxvBB0nXAA6EAQYASABEgIBAvD_BwE)
 
 - [Boost Converter Chip (TPS 61023) Data Sheets](https://www.ti.com/product/TPS61023)
@@ -22,6 +24,8 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 - [Schematic](https://www.robotshop.com/media/files/pdf/sim808-gps-gprsgsm-arduino-shield-mkf-schematic.pdf)
 
 - [Documentation](https://www.robotshop.com/media/files/zip/documentation_oas808sim.zip)
+
+- [Arduino Library](https://github.com/DFRobot/DFRobot_SIM808)
 
 ### 4. [Adafruit Universal BQ24047 Charger](https://www.adafruit.com/product/4755)
 
