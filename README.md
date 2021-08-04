@@ -27,6 +27,8 @@ A low-cost, open-source, versatile hardware/software platform designed to be use
 
 - [Arduino Library](https://github.com/DFRobot/DFRobot_SIM808)
 
+- [SIM 808 GPS Tutorial (Similar board)[(https://www.youtube.com/watch?v=fN8fwX3KmsM)
+
 ### 4. [Adafruit Universal BQ24047 Charger](https://www.adafruit.com/product/4755)
 
 - [BQ24074 Data Sheet](https://www.ti.com/product/BQ24074)
